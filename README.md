@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">A passionate IT Support Engineer from India</h3>
+<h3 align="center">A Passionate IT Support Engineer >>> DevOps Engineer</h3>
 <img align="right" alt="devops" width="600" src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit9974&label=Profile%20views&color=0e75b6&style=flat" alt="amit9974" /> </p>
