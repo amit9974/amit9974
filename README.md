@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit9974&label=Profile%20views&color=0e75b6&style=flat" alt="amit9974" /> </p>
 
-- 🔭 I’m currently working on **Kyndryl**
+- 🔭 I’m currently working at **Kyndryl**
 
 - 🌱 I’m currently learning **DevOps- Zero to Hero**
 
